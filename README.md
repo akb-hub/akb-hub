@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akb-hub
 - 👀 I’m interested in Spring Cloud, Docker, dApp
-- 🌱 I’m currently learning Spring Cloud, Reactive Spring
+- 🌱 I’m currently learning Spring Cloud, Reactive Spring, blockchain, Waves Enterprise
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: e-mail kbalex@mail.ru
 
